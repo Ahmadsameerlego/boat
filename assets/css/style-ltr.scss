@@ -1,0 +1,70 @@
+body.ltr{
+    direction: ltr;
+    text-align: left;
+    .f-inp-icon {
+        right: 14px;
+        left : auto ;
+    }
+    .country_select {
+        top: 0;
+        right: 0;
+        left: auto;
+    }
+    .inp-spe-tele{
+        padding-right: 0;
+        padding-left: 40px;
+    }
+    .icon-float {
+        right: auto;
+        left: 12px;
+    }
+    .icon-float2 {
+        left: auto;
+        right:14px;
+    }
+    .dafeult-faq-icon {
+        transform: rotate(180deg);
+    }
+    .main-select{
+        padding-right: 0;
+        padding-left: 40px;
+    }
+    .boat-box {
+        border-left: none ;
+        border-right: 1px solid #2561aa;
+    }
+    label.labelChecked{
+        right:0;
+        left: auto;
+    }
+    .main-textarea{
+        padding-right: 0;
+        padding-left: 40px;
+    }
+
+    .slider_content {
+        left: 16%;
+        right: auto;
+    }
+
+    .gray-col {
+        right: 31px;
+        left: auto;
+    }
+
+    .editButton {
+        right: 10px;
+        left: auto;
+    }
+    @media( max-width:768px ){
+        .links {
+            left: 0px;
+            right: auto;
+            transform: translateX(-100%);
+        }
+        .slideto {
+            transform: translatex(0) !important;
+        }
+    }
+
+}

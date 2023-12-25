@@ -196,13 +196,21 @@
                 <div class="mb-3 main-inp-cont">
                   <h6 class="font-bold"> {{ $t('numHours') }} </h6>
                   <div class="relative-co">
-                    <input
+                    <!-- <input
                       type="number"
                       :placeholder="$t('hoursPlace')"
                       class="inp-spe-tele"
                       name="hours"
                       v-model="hours"
-                    />
+                    /> -->
+
+                    <select name="hours" v-model="hours" id="" class="main-select">
+                      <option value="" selected hidden disabled>
+                        {{ $t('hoursPlace') }}
+                      </option>
+                      <option v-for="time in times" :key="time.id" :value="time.id"> {{ time.name }} </option>
+                    </select>
+
                     <div class="icon-float">
                       <font-awesome-icon :icon="['fas', 'clock']" class="color-main" />
                     </div>
@@ -407,7 +415,8 @@ export default {
 
             payment_methods : [],
             payment_type : '',
-            coupon : ''
+            coupon : '',
+            times : []
         }
     },
     methods:{
@@ -462,6 +471,18 @@ export default {
           })
           .then( (res)=>{
             this.payment_methods = res.data.payment_methods
+          } )
+        },
+
+        // get times 
+        async getTimes(){
+          await this.$axios.$get('/times', {
+            headers:{
+                Authorization:  `Bearer ${localStorage.getItem('token')}`
+            }
+          })
+          .then( (res)=>{
+            this.times = res.data.times ;
           } )
         },
 
@@ -622,6 +643,7 @@ export default {
       this.getCity();
       this.getCategories();
       this.getPaymentMethod();
+      this.getTimes();
     }
 }
 </script>

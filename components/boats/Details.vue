@@ -93,7 +93,8 @@
               <section v-if="special_prices.length>0">
                 <div class="flex-bet font14 mb-3" v-for="special in special_prices" :key="special.id">
                   <div class="color-main"> {{  special.price }} ر.س</div>
-                  <div class="color-main"> {{ $t('from') }} {{ special.start }} {{ $t('to') }} {{ special.end }} {{ $t('hour') }} </div>
+                  <!-- <div class="color-main"> {{ $t('from') }} {{ special.start }} {{ $t('to') }} {{ special.end }} {{ $t('hour') }} </div> -->
+                  <div class="color-main"> {{ special.name }}  </div>
                 </div>
               </section>
 

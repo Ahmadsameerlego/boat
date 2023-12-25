@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[69],{685:function(e,n,o){"use strict";o.r(n);var t={},r=o(46),component=Object(r.a)(t,(function(){var e=this,n=e._self._c;return n("main",[n("homeHeader",{attrs:{headerTitle:e.$t("commandQuestions")}}),e._v(" "),n("commonFAQS"),e._v(" "),n("homeFooter")],1)}),[],!1,null,null,null);n.default=component.exports}}]);

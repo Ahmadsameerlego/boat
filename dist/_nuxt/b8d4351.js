@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[87],{713:function(e,o,n){"use strict";n.r(o);var r={},t=n(46),component=Object(t.a)(r,(function(){var e=this,o=e._self._c;return o("main",[o("homeHeader"),e._v(" "),o("booksOrderDetails"),e._v(" "),o("homeDownloadApp"),e._v(" "),o("homeFooter")],1)}),[],!1,null,null,null);o.default=component.exports}}]);

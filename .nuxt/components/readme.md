@@ -1,0 +1,45 @@
+# Discovered Components
+
+This is an auto-generated list of components discovered by [nuxt/components](https://github.com/nuxt/components).
+
+You can directly use them in pages and other components without the need to import them.
+
+**Tip:** If a component is conditionally rendered with `v-if` and is big, it is better to use `Lazy` or `lazy-` prefix to lazy load.
+
+- `<BoatsDetails>` | `<boats-details>` (components/boats/Details.vue)
+- `<BoatsEditBoat>` | `<boats-edit-boat>` (components/boats/EditBoat.vue)
+- `<BoatsNewBoat>` | `<boats-new-boat>` (components/boats/NewBoat.vue)
+- `<BoatsAddFeature>` | `<boats-add-feature>` (components/boats/addFeature.vue)
+- `<BoatsBookTrip>` | `<boats-book-trip>` (components/boats/bookTrip.vue)
+- `<BoatsEditFeature>` | `<boats-edit-feature>` (components/boats/editFeature.vue)
+- `<BoatsOffers>` | `<boats-offers>` (components/boats/offers.vue)
+- `<CommonFAQS>` | `<common-f-a-q-s>` (components/common/FAQS.vue)
+- `<CommonContactForm>` | `<common-contact-form>` (components/common/contactForm.vue)
+- `<CommonLoader>` | `<common-loader>` (components/common/loader.vue)
+- `<CommonTerms>` | `<common-terms>` (components/common/terms.vue)
+- `<CommonTravelTypes>` | `<common-travel-types>` (components/common/travelTypes.vue)
+- `<BooksClientOrderDetails>` | `<books-client-order-details>` (components/books/ClientOrderDetails.vue)
+- `<BooksActive>` | `<books-active>` (components/books/active.vue)
+- `<BooksCancel>` | `<books-cancel>` (components/books/cancel.vue)
+- `<BooksClientPill>` | `<books-client-pill>` (components/books/clientPill.vue)
+- `<BooksFinish>` | `<books-finish>` (components/books/finish.vue)
+- `<BooksNew>` | `<books-new>` (components/books/new.vue)
+- `<BooksOrderDetails>` | `<books-order-details>` (components/books/orderDetails.vue)
+- `<BooksPill>` | `<books-pill>` (components/books/pill.vue)
+- `<BooksRate>` | `<books-rate>` (components/books/rate.vue)
+- `<HomeAbout>` | `<home-about>` (components/home/About.vue)
+- `<HomeChatRooms>` | `<home-chat-rooms>` (components/home/ChatRooms.vue)
+- `<HomeFooter>` | `<home-footer>` (components/home/Footer.vue)
+- `<HomeHeader>` | `<home-header>` (components/home/Header.vue)
+- `<HomeUs>` | `<home-us>` (components/home/Us.vue)
+- `<HomeDownloadApp>` | `<home-download-app>` (components/home/downloadApp.vue)
+- `<HomeSearchBar>` | `<home-search-bar>` (components/home/searchBar.vue)
+- `<HomeTopRated>` | `<home-top-rated>` (components/home/topRated.vue)
+- `<HomeTravelTypes>` | `<home-travel-types>` (components/home/travelTypes.vue)
+- `<HomeWhoUs>` | `<home-who-us>` (components/home/whoUs.vue)
+- `<NotsNotifications>` | `<nots-notifications>` (components/nots/notifications.vue)
+- `<ProvidersAllBoats>` | `<providers-all-boats>` (components/providers/AllBoats.vue)
+- `<ProvidersNewOrders>` | `<providers-new-orders>` (components/providers/NewOrders.vue)
+- `<ProvidersProviderBoats>` | `<providers-provider-boats>` (components/providers/providerBoats.vue)
+- `<ProvidersSingleBoat>` | `<providers-single-boat>` (components/providers/singleBoat.vue)
+- `<TravelServiceProvider>` | `<travel-service-provider>` (components/travel/ServiceProvider.vue)

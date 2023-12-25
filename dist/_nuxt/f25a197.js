@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[100],{693:function(e,n,t){"use strict";t.r(n);var o={},r=t(46),component=Object(r.a)(o,(function(){var e=this,n=e._self._c;return n("main",[n("homeHeader",{attrs:{headerTitle:e.$t("Brief")}}),e._v(" "),n("commonTerms"),e._v(" "),n("homeFooter")],1)}),[],!1,null,null,null);n.default=component.exports}}]);

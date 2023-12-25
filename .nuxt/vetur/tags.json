@@ -1,0 +1,113 @@
+{
+  "BoatsDetails": {
+    "description": "Auto imported from components/boats/Details.vue"
+  },
+  "BoatsEditBoat": {
+    "description": "Auto imported from components/boats/EditBoat.vue"
+  },
+  "BoatsNewBoat": {
+    "description": "Auto imported from components/boats/NewBoat.vue"
+  },
+  "BoatsAddFeature": {
+    "description": "Auto imported from components/boats/addFeature.vue"
+  },
+  "BoatsBookTrip": {
+    "description": "Auto imported from components/boats/bookTrip.vue"
+  },
+  "BoatsEditFeature": {
+    "description": "Auto imported from components/boats/editFeature.vue"
+  },
+  "BoatsOffers": {
+    "description": "Auto imported from components/boats/offers.vue"
+  },
+  "CommonFAQS": {
+    "description": "Auto imported from components/common/FAQS.vue"
+  },
+  "CommonContactForm": {
+    "description": "Auto imported from components/common/contactForm.vue"
+  },
+  "CommonLoader": {
+    "description": "Auto imported from components/common/loader.vue"
+  },
+  "CommonTerms": {
+    "description": "Auto imported from components/common/terms.vue"
+  },
+  "CommonTravelTypes": {
+    "description": "Auto imported from components/common/travelTypes.vue"
+  },
+  "BooksClientOrderDetails": {
+    "description": "Auto imported from components/books/ClientOrderDetails.vue"
+  },
+  "BooksActive": {
+    "description": "Auto imported from components/books/active.vue"
+  },
+  "BooksCancel": {
+    "description": "Auto imported from components/books/cancel.vue"
+  },
+  "BooksClientPill": {
+    "description": "Auto imported from components/books/clientPill.vue"
+  },
+  "BooksFinish": {
+    "description": "Auto imported from components/books/finish.vue"
+  },
+  "BooksNew": {
+    "description": "Auto imported from components/books/new.vue"
+  },
+  "BooksOrderDetails": {
+    "description": "Auto imported from components/books/orderDetails.vue"
+  },
+  "BooksPill": {
+    "description": "Auto imported from components/books/pill.vue"
+  },
+  "BooksRate": {
+    "description": "Auto imported from components/books/rate.vue"
+  },
+  "HomeAbout": {
+    "description": "Auto imported from components/home/About.vue"
+  },
+  "HomeChatRooms": {
+    "description": "Auto imported from components/home/ChatRooms.vue"
+  },
+  "HomeFooter": {
+    "description": "Auto imported from components/home/Footer.vue"
+  },
+  "HomeHeader": {
+    "description": "Auto imported from components/home/Header.vue"
+  },
+  "HomeUs": {
+    "description": "Auto imported from components/home/Us.vue"
+  },
+  "HomeDownloadApp": {
+    "description": "Auto imported from components/home/downloadApp.vue"
+  },
+  "HomeSearchBar": {
+    "description": "Auto imported from components/home/searchBar.vue"
+  },
+  "HomeTopRated": {
+    "description": "Auto imported from components/home/topRated.vue"
+  },
+  "HomeTravelTypes": {
+    "description": "Auto imported from components/home/travelTypes.vue"
+  },
+  "HomeWhoUs": {
+    "description": "Auto imported from components/home/whoUs.vue"
+  },
+  "NotsNotifications": {
+    "description": "Auto imported from components/nots/notifications.vue"
+  },
+  "ProvidersAllBoats": {
+    "description": "Auto imported from components/providers/AllBoats.vue"
+  },
+  "ProvidersNewOrders": {
+    "description": "Auto imported from components/providers/NewOrders.vue"
+  },
+  "ProvidersProviderBoats": {
+    "description": "Auto imported from components/providers/providerBoats.vue"
+  },
+  "ProvidersSingleBoat": {
+    "description": "Auto imported from components/providers/singleBoat.vue"
+  },
+  "TravelServiceProvider": {
+    "description": "Auto imported from components/travel/ServiceProvider.vue"
+  }
+}

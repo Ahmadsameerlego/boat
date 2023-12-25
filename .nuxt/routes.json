@@ -1,0 +1,842 @@
+[
+  {
+    "name": "clientActiveCode___ar",
+    "path": "/clientActiveCode",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/clientActiveCode.vue",
+    "chunkName": "pages/clientActiveCode",
+    "_name": "_189883b6"
+  },
+  {
+    "name": "clientLogin___ar",
+    "path": "/clientLogin",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/clientLogin.vue",
+    "chunkName": "pages/clientLogin",
+    "_name": "_df5713d4"
+  },
+  {
+    "name": "clientRegister___ar",
+    "path": "/clientRegister",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/clientRegister.vue",
+    "chunkName": "pages/clientRegister",
+    "_name": "_d9aa39f4"
+  },
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_f8e3aaec"
+  },
+  {
+    "name": "providerActive___ar",
+    "path": "/providerActive",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/providerActive.vue",
+    "chunkName": "pages/providerActive",
+    "_name": "_0599434f"
+  },
+  {
+    "name": "providerLogin___ar",
+    "path": "/providerLogin",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/providerLogin.vue",
+    "chunkName": "pages/providerLogin",
+    "_name": "_4b62e6b0"
+  },
+  {
+    "name": "providerRegister___ar",
+    "path": "/providerRegister",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/providerRegister.vue",
+    "chunkName": "pages/providerRegister",
+    "_name": "_eee717a8"
+  },
+  {
+    "name": "providerRegisterComplete___ar",
+    "path": "/providerRegisterComplete",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/providerRegisterComplete.vue",
+    "chunkName": "pages/providerRegisterComplete",
+    "_name": "_f8023df6"
+  },
+  {
+    "name": "client-contactUs___ar",
+    "path": "/client/contactUs",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/contactUs.vue",
+    "chunkName": "pages/client/contactUs",
+    "_name": "_a9a751dc"
+  },
+  {
+    "name": "client-HomePage___ar",
+    "path": "/client/HomePage",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/HomePage.vue",
+    "chunkName": "pages/client/HomePage",
+    "_name": "_3492f3aa"
+  },
+  {
+    "name": "client-notifications___ar",
+    "path": "/client/notifications",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/notifications.vue",
+    "chunkName": "pages/client/notifications",
+    "_name": "_4cd2821c"
+  },
+  {
+    "name": "client-qommonQuestions___ar",
+    "path": "/client/qommonQuestions",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/qommonQuestions.vue",
+    "chunkName": "pages/client/qommonQuestions",
+    "_name": "_67655d38"
+  },
+  {
+    "name": "client-terms___ar",
+    "path": "/client/terms",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/terms.vue",
+    "chunkName": "pages/client/terms",
+    "_name": "_7ce9a98a"
+  },
+  {
+    "name": "client-tripesTypes___ar",
+    "path": "/client/tripesTypes",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/tripesTypes.vue",
+    "chunkName": "pages/client/tripesTypes",
+    "_name": "_5d27144c"
+  },
+  {
+    "name": "client-whoUs___ar",
+    "path": "/client/whoUs",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/whoUs.vue",
+    "chunkName": "pages/client/whoUs",
+    "_name": "_235603a0"
+  },
+  {
+    "name": "clientActiveCode___en",
+    "path": "/en/clientActiveCode",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/clientActiveCode.vue",
+    "chunkName": "pages/clientActiveCode",
+    "_name": "_189883b6"
+  },
+  {
+    "name": "clientLogin___en",
+    "path": "/en/clientLogin",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/clientLogin.vue",
+    "chunkName": "pages/clientLogin",
+    "_name": "_df5713d4"
+  },
+  {
+    "name": "clientRegister___en",
+    "path": "/en/clientRegister",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/clientRegister.vue",
+    "chunkName": "pages/clientRegister",
+    "_name": "_d9aa39f4"
+  },
+  {
+    "name": "providerActive___en",
+    "path": "/en/providerActive",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/providerActive.vue",
+    "chunkName": "pages/providerActive",
+    "_name": "_0599434f"
+  },
+  {
+    "name": "providerLogin___en",
+    "path": "/en/providerLogin",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/providerLogin.vue",
+    "chunkName": "pages/providerLogin",
+    "_name": "_4b62e6b0"
+  },
+  {
+    "name": "providerRegister___en",
+    "path": "/en/providerRegister",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/providerRegister.vue",
+    "chunkName": "pages/providerRegister",
+    "_name": "_eee717a8"
+  },
+  {
+    "name": "providerRegisterComplete___en",
+    "path": "/en/providerRegisterComplete",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/providerRegisterComplete.vue",
+    "chunkName": "pages/providerRegisterComplete",
+    "_name": "_f8023df6"
+  },
+  {
+    "name": "provider-contactUS___ar",
+    "path": "/provider/contactUS",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/contactUS.vue",
+    "chunkName": "pages/provider/contactUS",
+    "_name": "_66a972d0"
+  },
+  {
+    "name": "provider-HomePage___ar",
+    "path": "/provider/HomePage",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/HomePage.vue",
+    "chunkName": "pages/provider/HomePage",
+    "_name": "_2938f178"
+  },
+  {
+    "name": "provider-notifications___ar",
+    "path": "/provider/notifications",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/notifications.vue",
+    "chunkName": "pages/provider/notifications",
+    "_name": "_37301ec2"
+  },
+  {
+    "name": "provider-qommonQuestions___ar",
+    "path": "/provider/qommonQuestions",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/qommonQuestions.vue",
+    "chunkName": "pages/provider/qommonQuestions",
+    "_name": "_d49346ec"
+  },
+  {
+    "name": "provider-terms___ar",
+    "path": "/provider/terms",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/terms.vue",
+    "chunkName": "pages/provider/terms",
+    "_name": "_684acde1"
+  },
+  {
+    "name": "provider-whoUs___ar",
+    "path": "/provider/whoUs",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/whoUs.vue",
+    "chunkName": "pages/provider/whoUs",
+    "_name": "_d5d6be54"
+  },
+  {
+    "name": "client-books-activeMyBooks___ar",
+    "path": "/client/books/activeMyBooks",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/books/activeMyBooks.vue",
+    "chunkName": "pages/client/books/activeMyBooks",
+    "_name": "_98a132f2"
+  },
+  {
+    "name": "client-books-cancelMyBooks___ar",
+    "path": "/client/books/cancelMyBooks",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/books/cancelMyBooks.vue",
+    "chunkName": "pages/client/books/cancelMyBooks",
+    "_name": "_ea9f72da"
+  },
+  {
+    "name": "client-books-finishMyBooks___ar",
+    "path": "/client/books/finishMyBooks",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/books/finishMyBooks.vue",
+    "chunkName": "pages/client/books/finishMyBooks",
+    "_name": "_7e59624c"
+  },
+  {
+    "name": "client-books-MyBooks___ar",
+    "path": "/client/books/MyBooks",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/books/MyBooks.vue",
+    "chunkName": "pages/client/books/MyBooks",
+    "_name": "_75bc8a8d"
+  },
+  {
+    "name": "client-clientProfile-comments___ar",
+    "path": "/client/clientProfile/comments",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/comments.vue",
+    "chunkName": "pages/client/clientProfile/comments",
+    "_name": "_beb622fe"
+  },
+  {
+    "name": "client-clientProfile-complains___ar",
+    "path": "/client/clientProfile/complains",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/complains.vue",
+    "chunkName": "pages/client/clientProfile/complains",
+    "_name": "_64f85e26"
+  },
+  {
+    "name": "client-clientProfile-infoComp___ar",
+    "path": "/client/clientProfile/infoComp",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/infoComp.vue",
+    "chunkName": "pages/client/clientProfile/infoComp",
+    "_name": "_1152f4ea"
+  },
+  {
+    "name": "client-clientProfile-notifications___ar",
+    "path": "/client/clientProfile/notifications",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/notifications.vue",
+    "chunkName": "pages/client/clientProfile/notifications",
+    "_name": "_5c8fccab"
+  },
+  {
+    "name": "client-clientProfile-privacy___ar",
+    "path": "/client/clientProfile/privacy",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/privacy.vue",
+    "chunkName": "pages/client/clientProfile/privacy",
+    "_name": "_0253078b"
+  },
+  {
+    "name": "client-clientProfile-profileForm___ar",
+    "path": "/client/clientProfile/profileForm",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/profileForm.vue",
+    "chunkName": "pages/client/clientProfile/profileForm",
+    "_name": "_15b17a10"
+  },
+  {
+    "name": "client-clientProfile-profileInfo___ar",
+    "path": "/client/clientProfile/profileInfo",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/profileInfo.vue",
+    "chunkName": "pages/client/clientProfile/profileInfo",
+    "_name": "_0410ccfa"
+  },
+  {
+    "name": "client-clientProfile-terms___ar",
+    "path": "/client/clientProfile/terms",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/terms.vue",
+    "chunkName": "pages/client/clientProfile/terms",
+    "_name": "_176774ca"
+  },
+  {
+    "name": "client-clientProfile-wallet___ar",
+    "path": "/client/clientProfile/wallet",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/wallet.vue",
+    "chunkName": "pages/client/clientProfile/wallet",
+    "_name": "_ae0b5974"
+  },
+  {
+    "name": "client-clientProfile-webLang___ar",
+    "path": "/client/clientProfile/webLang",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/webLang.vue",
+    "chunkName": "pages/client/clientProfile/webLang",
+    "_name": "_b45f2336"
+  },
+  {
+    "name": "client-contactUs___en",
+    "path": "/en/client/contactUs",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/contactUs.vue",
+    "chunkName": "pages/client/contactUs",
+    "_name": "_a9a751dc"
+  },
+  {
+    "name": "client-HomePage___en",
+    "path": "/en/client/HomePage",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/HomePage.vue",
+    "chunkName": "pages/client/HomePage",
+    "_name": "_3492f3aa"
+  },
+  {
+    "name": "client-notifications___en",
+    "path": "/en/client/notifications",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/notifications.vue",
+    "chunkName": "pages/client/notifications",
+    "_name": "_4cd2821c"
+  },
+  {
+    "name": "client-qommonQuestions___en",
+    "path": "/en/client/qommonQuestions",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/qommonQuestions.vue",
+    "chunkName": "pages/client/qommonQuestions",
+    "_name": "_67655d38"
+  },
+  {
+    "name": "client-terms___en",
+    "path": "/en/client/terms",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/terms.vue",
+    "chunkName": "pages/client/terms",
+    "_name": "_7ce9a98a"
+  },
+  {
+    "name": "client-tripesTypes___en",
+    "path": "/en/client/tripesTypes",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/tripesTypes.vue",
+    "chunkName": "pages/client/tripesTypes",
+    "_name": "_5d27144c"
+  },
+  {
+    "name": "client-whoUs___en",
+    "path": "/en/client/whoUs",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/whoUs.vue",
+    "chunkName": "pages/client/whoUs",
+    "_name": "_235603a0"
+  },
+  {
+    "name": "provider-contactUS___en",
+    "path": "/en/provider/contactUS",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/contactUS.vue",
+    "chunkName": "pages/provider/contactUS",
+    "_name": "_66a972d0"
+  },
+  {
+    "name": "provider-HomePage___en",
+    "path": "/en/provider/HomePage",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/HomePage.vue",
+    "chunkName": "pages/provider/HomePage",
+    "_name": "_2938f178"
+  },
+  {
+    "name": "provider-notifications___en",
+    "path": "/en/provider/notifications",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/notifications.vue",
+    "chunkName": "pages/provider/notifications",
+    "_name": "_37301ec2"
+  },
+  {
+    "name": "provider-qommonQuestions___en",
+    "path": "/en/provider/qommonQuestions",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/qommonQuestions.vue",
+    "chunkName": "pages/provider/qommonQuestions",
+    "_name": "_d49346ec"
+  },
+  {
+    "name": "provider-terms___en",
+    "path": "/en/provider/terms",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/terms.vue",
+    "chunkName": "pages/provider/terms",
+    "_name": "_684acde1"
+  },
+  {
+    "name": "provider-whoUs___en",
+    "path": "/en/provider/whoUs",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/whoUs.vue",
+    "chunkName": "pages/provider/whoUs",
+    "_name": "_d5d6be54"
+  },
+  {
+    "name": "provider-boats-AllBoats___ar",
+    "path": "/provider/boats/AllBoats",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/boats/AllBoats.vue",
+    "chunkName": "pages/provider/boats/AllBoats",
+    "_name": "_fb448bb8"
+  },
+  {
+    "name": "provider-books-activeMyBooks___ar",
+    "path": "/provider/books/activeMyBooks",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/books/activeMyBooks.vue",
+    "chunkName": "pages/provider/books/activeMyBooks",
+    "_name": "_3db26ead"
+  },
+  {
+    "name": "provider-books-cancelMyBooks___ar",
+    "path": "/provider/books/cancelMyBooks",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/books/cancelMyBooks.vue",
+    "chunkName": "pages/provider/books/cancelMyBooks",
+    "_name": "_14b34eb9"
+  },
+  {
+    "name": "provider-books-finishMyBooks___ar",
+    "path": "/provider/books/finishMyBooks",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/books/finishMyBooks.vue",
+    "chunkName": "pages/provider/books/finishMyBooks",
+    "_name": "_4ad65700"
+  },
+  {
+    "name": "provider-books-MyBooks___ar",
+    "path": "/provider/books/MyBooks",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/books/MyBooks.vue",
+    "chunkName": "pages/provider/books/MyBooks",
+    "_name": "_601a2733"
+  },
+  {
+    "name": "provider-providerProfile-fainancialProvider___ar",
+    "path": "/provider/providerProfile/fainancialProvider",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/fainancialProvider.vue",
+    "chunkName": "pages/provider/providerProfile/fainancialProvider",
+    "_name": "_1685b308"
+  },
+  {
+    "name": "provider-providerProfile-profilePrivacy___ar",
+    "path": "/provider/providerProfile/profilePrivacy",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/profilePrivacy.vue",
+    "chunkName": "pages/provider/providerProfile/profilePrivacy",
+    "_name": "_c41fdaa8"
+  },
+  {
+    "name": "provider-providerProfile-providerComments___ar",
+    "path": "/provider/providerProfile/providerComments",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerComments.vue",
+    "chunkName": "pages/provider/providerProfile/providerComments",
+    "_name": "_3cc55bd2"
+  },
+  {
+    "name": "provider-providerProfile-providerComplains___ar",
+    "path": "/provider/providerProfile/providerComplains",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerComplains.vue",
+    "chunkName": "pages/provider/providerProfile/providerComplains",
+    "_name": "_951de488"
+  },
+  {
+    "name": "provider-providerProfile-providerForm___ar",
+    "path": "/provider/providerProfile/providerForm",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerForm.vue",
+    "chunkName": "pages/provider/providerProfile/providerForm",
+    "_name": "_49ab35a2"
+  },
+  {
+    "name": "provider-providerProfile-providerInfo___ar",
+    "path": "/provider/providerProfile/providerInfo",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerInfo.vue",
+    "chunkName": "pages/provider/providerProfile/providerInfo",
+    "_name": "_380a888c"
+  },
+  {
+    "name": "provider-providerProfile-providerInfoComp___ar",
+    "path": "/provider/providerProfile/providerInfoComp",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerInfoComp.vue",
+    "chunkName": "pages/provider/providerProfile/providerInfoComp",
+    "_name": "_a5193b8a"
+  },
+  {
+    "name": "provider-providerProfile-providerLang___ar",
+    "path": "/provider/providerProfile/providerLang",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerLang.vue",
+    "chunkName": "pages/provider/providerProfile/providerLang",
+    "_name": "_6599d468"
+  },
+  {
+    "name": "provider-providerProfile-providerNoti___ar",
+    "path": "/provider/providerProfile/providerNoti",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerNoti.vue",
+    "chunkName": "pages/provider/providerProfile/providerNoti",
+    "_name": "_e8342058"
+  },
+  {
+    "name": "provider-providerProfile-providerTerms___ar",
+    "path": "/provider/providerProfile/providerTerms",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerTerms.vue",
+    "chunkName": "pages/provider/providerProfile/providerTerms",
+    "_name": "_074d1dce"
+  },
+  {
+    "name": "provider-providerProfile-providerWallet___ar",
+    "path": "/provider/providerProfile/providerWallet",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerWallet.vue",
+    "chunkName": "pages/provider/providerProfile/providerWallet",
+    "_name": "_6247e0d7"
+  },
+  {
+    "name": "client-books-activeMyBooks___en",
+    "path": "/en/client/books/activeMyBooks",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/books/activeMyBooks.vue",
+    "chunkName": "pages/client/books/activeMyBooks",
+    "_name": "_98a132f2"
+  },
+  {
+    "name": "client-books-cancelMyBooks___en",
+    "path": "/en/client/books/cancelMyBooks",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/books/cancelMyBooks.vue",
+    "chunkName": "pages/client/books/cancelMyBooks",
+    "_name": "_ea9f72da"
+  },
+  {
+    "name": "client-books-finishMyBooks___en",
+    "path": "/en/client/books/finishMyBooks",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/books/finishMyBooks.vue",
+    "chunkName": "pages/client/books/finishMyBooks",
+    "_name": "_7e59624c"
+  },
+  {
+    "name": "client-books-MyBooks___en",
+    "path": "/en/client/books/MyBooks",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/books/MyBooks.vue",
+    "chunkName": "pages/client/books/MyBooks",
+    "_name": "_75bc8a8d"
+  },
+  {
+    "name": "client-clientProfile-comments___en",
+    "path": "/en/client/clientProfile/comments",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/comments.vue",
+    "chunkName": "pages/client/clientProfile/comments",
+    "_name": "_beb622fe"
+  },
+  {
+    "name": "client-clientProfile-complains___en",
+    "path": "/en/client/clientProfile/complains",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/complains.vue",
+    "chunkName": "pages/client/clientProfile/complains",
+    "_name": "_64f85e26"
+  },
+  {
+    "name": "client-clientProfile-infoComp___en",
+    "path": "/en/client/clientProfile/infoComp",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/infoComp.vue",
+    "chunkName": "pages/client/clientProfile/infoComp",
+    "_name": "_1152f4ea"
+  },
+  {
+    "name": "client-clientProfile-notifications___en",
+    "path": "/en/client/clientProfile/notifications",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/notifications.vue",
+    "chunkName": "pages/client/clientProfile/notifications",
+    "_name": "_5c8fccab"
+  },
+  {
+    "name": "client-clientProfile-privacy___en",
+    "path": "/en/client/clientProfile/privacy",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/privacy.vue",
+    "chunkName": "pages/client/clientProfile/privacy",
+    "_name": "_0253078b"
+  },
+  {
+    "name": "client-clientProfile-profileForm___en",
+    "path": "/en/client/clientProfile/profileForm",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/profileForm.vue",
+    "chunkName": "pages/client/clientProfile/profileForm",
+    "_name": "_15b17a10"
+  },
+  {
+    "name": "client-clientProfile-profileInfo___en",
+    "path": "/en/client/clientProfile/profileInfo",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/profileInfo.vue",
+    "chunkName": "pages/client/clientProfile/profileInfo",
+    "_name": "_0410ccfa"
+  },
+  {
+    "name": "client-clientProfile-terms___en",
+    "path": "/en/client/clientProfile/terms",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/terms.vue",
+    "chunkName": "pages/client/clientProfile/terms",
+    "_name": "_176774ca"
+  },
+  {
+    "name": "client-clientProfile-wallet___en",
+    "path": "/en/client/clientProfile/wallet",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/wallet.vue",
+    "chunkName": "pages/client/clientProfile/wallet",
+    "_name": "_ae0b5974"
+  },
+  {
+    "name": "client-clientProfile-webLang___en",
+    "path": "/en/client/clientProfile/webLang",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/clientProfile/webLang.vue",
+    "chunkName": "pages/client/clientProfile/webLang",
+    "_name": "_b45f2336"
+  },
+  {
+    "name": "provider-boats-AllBoats___en",
+    "path": "/en/provider/boats/AllBoats",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/boats/AllBoats.vue",
+    "chunkName": "pages/provider/boats/AllBoats",
+    "_name": "_fb448bb8"
+  },
+  {
+    "name": "provider-books-activeMyBooks___en",
+    "path": "/en/provider/books/activeMyBooks",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/books/activeMyBooks.vue",
+    "chunkName": "pages/provider/books/activeMyBooks",
+    "_name": "_3db26ead"
+  },
+  {
+    "name": "provider-books-cancelMyBooks___en",
+    "path": "/en/provider/books/cancelMyBooks",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/books/cancelMyBooks.vue",
+    "chunkName": "pages/provider/books/cancelMyBooks",
+    "_name": "_14b34eb9"
+  },
+  {
+    "name": "provider-books-finishMyBooks___en",
+    "path": "/en/provider/books/finishMyBooks",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/books/finishMyBooks.vue",
+    "chunkName": "pages/provider/books/finishMyBooks",
+    "_name": "_4ad65700"
+  },
+  {
+    "name": "provider-books-MyBooks___en",
+    "path": "/en/provider/books/MyBooks",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/books/MyBooks.vue",
+    "chunkName": "pages/provider/books/MyBooks",
+    "_name": "_601a2733"
+  },
+  {
+    "name": "provider-providerProfile-fainancialProvider___en",
+    "path": "/en/provider/providerProfile/fainancialProvider",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/fainancialProvider.vue",
+    "chunkName": "pages/provider/providerProfile/fainancialProvider",
+    "_name": "_1685b308"
+  },
+  {
+    "name": "provider-providerProfile-profilePrivacy___en",
+    "path": "/en/provider/providerProfile/profilePrivacy",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/profilePrivacy.vue",
+    "chunkName": "pages/provider/providerProfile/profilePrivacy",
+    "_name": "_c41fdaa8"
+  },
+  {
+    "name": "provider-providerProfile-providerComments___en",
+    "path": "/en/provider/providerProfile/providerComments",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerComments.vue",
+    "chunkName": "pages/provider/providerProfile/providerComments",
+    "_name": "_3cc55bd2"
+  },
+  {
+    "name": "provider-providerProfile-providerComplains___en",
+    "path": "/en/provider/providerProfile/providerComplains",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerComplains.vue",
+    "chunkName": "pages/provider/providerProfile/providerComplains",
+    "_name": "_951de488"
+  },
+  {
+    "name": "provider-providerProfile-providerForm___en",
+    "path": "/en/provider/providerProfile/providerForm",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerForm.vue",
+    "chunkName": "pages/provider/providerProfile/providerForm",
+    "_name": "_49ab35a2"
+  },
+  {
+    "name": "provider-providerProfile-providerInfo___en",
+    "path": "/en/provider/providerProfile/providerInfo",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerInfo.vue",
+    "chunkName": "pages/provider/providerProfile/providerInfo",
+    "_name": "_380a888c"
+  },
+  {
+    "name": "provider-providerProfile-providerInfoComp___en",
+    "path": "/en/provider/providerProfile/providerInfoComp",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerInfoComp.vue",
+    "chunkName": "pages/provider/providerProfile/providerInfoComp",
+    "_name": "_a5193b8a"
+  },
+  {
+    "name": "provider-providerProfile-providerLang___en",
+    "path": "/en/provider/providerProfile/providerLang",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerLang.vue",
+    "chunkName": "pages/provider/providerProfile/providerLang",
+    "_name": "_6599d468"
+  },
+  {
+    "name": "provider-providerProfile-providerNoti___en",
+    "path": "/en/provider/providerProfile/providerNoti",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerNoti.vue",
+    "chunkName": "pages/provider/providerProfile/providerNoti",
+    "_name": "_e8342058"
+  },
+  {
+    "name": "provider-providerProfile-providerTerms___en",
+    "path": "/en/provider/providerProfile/providerTerms",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerTerms.vue",
+    "chunkName": "pages/provider/providerProfile/providerTerms",
+    "_name": "_074d1dce"
+  },
+  {
+    "name": "provider-providerProfile-providerWallet___en",
+    "path": "/en/provider/providerProfile/providerWallet",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/providerProfile/providerWallet.vue",
+    "chunkName": "pages/provider/providerProfile/providerWallet",
+    "_name": "_6247e0d7"
+  },
+  {
+    "name": "client-boats-id___en",
+    "path": "/en/client/boats/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/boats/_id.vue",
+    "chunkName": "pages/client/boats/_id",
+    "_name": "_4a899d12"
+  },
+  {
+    "name": "client-creatOrder-id___en",
+    "path": "/en/client/creatOrder/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/creatOrder/_id.vue",
+    "chunkName": "pages/client/creatOrder/_id",
+    "_name": "_405c4f28"
+  },
+  {
+    "name": "client-orders-id___en",
+    "path": "/en/client/orders/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/orders/_id.vue",
+    "chunkName": "pages/client/orders/_id",
+    "_name": "_d39acde8"
+  },
+  {
+    "name": "client-pill-id___en",
+    "path": "/en/client/pill/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/pill/_id.vue",
+    "chunkName": "pages/client/pill/_id",
+    "_name": "_3a168c60"
+  },
+  {
+    "name": "client-providers-id___en",
+    "path": "/en/client/providers/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/providers/_id.vue",
+    "chunkName": "pages/client/providers/_id",
+    "_name": "_46ee4cfe"
+  },
+  {
+    "name": "client-travels-id___en",
+    "path": "/en/client/travels/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/travels/_id.vue",
+    "chunkName": "pages/client/travels/_id",
+    "_name": "_4d649578"
+  },
+  {
+    "name": "provider-boats-id___en",
+    "path": "/en/provider/boats/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/boats/_id.vue",
+    "chunkName": "pages/provider/boats/_id",
+    "_name": "_6dcb7cb8"
+  },
+  {
+    "name": "provider-orders-id___en",
+    "path": "/en/provider/orders/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/orders/_id.vue",
+    "chunkName": "pages/provider/orders/_id",
+    "_name": "_49a6a3b4"
+  },
+  {
+    "name": "provider-pill-id___en",
+    "path": "/en/provider/pill/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/pill/_id.vue",
+    "chunkName": "pages/provider/pill/_id",
+    "_name": "_1e31c00c"
+  },
+  {
+    "name": "client-boats-id___ar",
+    "path": "/client/boats/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/boats/_id.vue",
+    "chunkName": "pages/client/boats/_id",
+    "_name": "_4a899d12"
+  },
+  {
+    "name": "client-creatOrder-id___ar",
+    "path": "/client/creatOrder/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/creatOrder/_id.vue",
+    "chunkName": "pages/client/creatOrder/_id",
+    "_name": "_405c4f28"
+  },
+  {
+    "name": "client-orders-id___ar",
+    "path": "/client/orders/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/orders/_id.vue",
+    "chunkName": "pages/client/orders/_id",
+    "_name": "_d39acde8"
+  },
+  {
+    "name": "client-pill-id___ar",
+    "path": "/client/pill/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/pill/_id.vue",
+    "chunkName": "pages/client/pill/_id",
+    "_name": "_3a168c60"
+  },
+  {
+    "name": "client-providers-id___ar",
+    "path": "/client/providers/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/providers/_id.vue",
+    "chunkName": "pages/client/providers/_id",
+    "_name": "_46ee4cfe"
+  },
+  {
+    "name": "client-travels-id___ar",
+    "path": "/client/travels/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/client/travels/_id.vue",
+    "chunkName": "pages/client/travels/_id",
+    "_name": "_4d649578"
+  },
+  {
+    "name": "provider-boats-id___ar",
+    "path": "/provider/boats/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/boats/_id.vue",
+    "chunkName": "pages/provider/boats/_id",
+    "_name": "_6dcb7cb8"
+  },
+  {
+    "name": "provider-orders-id___ar",
+    "path": "/provider/orders/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/orders/_id.vue",
+    "chunkName": "pages/provider/orders/_id",
+    "_name": "_49a6a3b4"
+  },
+  {
+    "name": "provider-pill-id___ar",
+    "path": "/provider/pill/:id?",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/provider/pill/_id.vue",
+    "chunkName": "pages/provider/pill/_id",
+    "_name": "_1e31c00c"
+  },
+  {
+    "name": "index___ar",
+    "path": "/",
+    "component": "/Users/ahmedsamir/Desktop/book_a_boat-master/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_f8e3aaec"
+  }
+]

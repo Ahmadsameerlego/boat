@@ -33,6 +33,7 @@
                             class="inp-spe-tele"
                             name="phone"
                             v-model="phone"
+                            style="direction:rtl"
                         />
                         <div class="icon-float">
                             <font-awesome-icon :icon="['fas', 'mobile-screen-button']" />
@@ -114,6 +115,7 @@ export default {
             fd.append('device_type', this.device_type); 
             fd.append('device_id', localStorage.getItem('fcm')); 
             fd.append('country_key',this.country_key);
+            fd.append('type','user');
 
             await this.$axios.$post( '/mobile/login' , fd  )
             .then( (res)=>{

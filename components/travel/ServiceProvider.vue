@@ -115,7 +115,20 @@
               </nuxt-link>
             </div>
           </div>
+
+
+          
         </div>
+
+        <v-pagination
+            v-if="products.length>0"
+            v-model="currentPage"
+            :total-visible="totalPage"
+            class="mt-6"
+            :length="totalPage"
+            color="#FF9A00"
+            @input="(page) => handlePagination(page)"
+          ></v-pagination>
 
 
         <div class="notFound d-flex align-items-center" v-else>
@@ -137,7 +150,10 @@ export default {
             price : '',
             lat : '',
             lng : '',
-            products : []
+            products : [],
+            totalPage: 0,
+            currentPageP: 1,
+            pageLimit: 10,
         }
     },
 
@@ -153,6 +169,10 @@ export default {
           }
     },
     methods:{
+      handlePagination(page) {
+        this.currentPage = page;
+        this.filterBoats()
+      },
       // get categories 
       async getCategories(){
           await this.$axios.$get('/trip-types')
@@ -182,7 +202,7 @@ export default {
         fd.append('lat', this.lat);
         fd.append('long', this.lng);
         
-        await this.$axios.$post('/filter-boats', fd , {
+        await this.$axios.$post(`/filter-boats?page=${this.currentPage}`, fd , {
           headers:{
               Authorization:  `Bearer ${localStorage.getItem('token')}`
           }
@@ -190,6 +210,10 @@ export default {
         .then( (res)=>{
           if( res.key == 'success' ){
             this.products = res.data.products ;
+
+            this.totalPage = res.data.pagination.total_pages
+          this.currentPage = res.data.pagination.current_page
+          this.pageLimit = res.data.pagination.per_page
           }
         } )
       }
@@ -206,10 +230,18 @@ export default {
       this.getCategories();
 
       this.filterBoats();
+    },
+    created(){
+      this.totalPage = Math.ceil(this.products.length / this.pageLimit);
     }
 }
 </script>
 
 <style>
-
+  .v-icon.v-icon{
+    transform: rotate(180deg) !important;
+  }
+  .theme--light.v-pagination .v-pagination__item--active {
+    background: #111b5a !important;
+}
 </style>
